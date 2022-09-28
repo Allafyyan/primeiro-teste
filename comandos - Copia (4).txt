@@ -1,0 +1,21 @@
+git clone https://github.com/Allafyyan/primeiro-teste.git
+
+git status --> vai mostrar se está em vermelho ou verde, caso estiver em vermelho fazer o comando abaixo
+
+git add .
+
+git commit -m "escrever sua frase mais proxima do que vc fez"
+
+git push -u origin main
+
+--------
+
+outros comandos
+
+git pull --> ele pega da nuvem e atualiza o seu projeto automaticamente na maquina
+
+
+depois será adicionado mais códigos
+
+
+depois será adicionado mais códigos
