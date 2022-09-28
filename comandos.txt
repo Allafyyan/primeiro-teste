@@ -14,3 +14,5 @@ outros comandos
 
 git pull --> ele pega da nuvem e atualiza o seu projeto automaticamente na maquina
 
+
+depois será adicionado mais códigos
